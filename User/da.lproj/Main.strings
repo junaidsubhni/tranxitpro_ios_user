@@ -1,0 +1,339 @@
+
+/* Class = "UILabel"; text = "**** **** **** 1234"; ObjectID = "0PD-dY-bSr"; */
+"0PD-dY-bSr.text" = "**** **** **** 1234";
+
+/* Class = "UILabel"; text = "Hvad er din e-mail adresse?"; ObjectID = "0sI-kO-7na"; */
+"0sI-kO-7na.text" = "Hvad er din e-mail adresse?";
+
+/* Class = "UIButton"; normalTitle = "Mindre end flyttekasse"; ObjectID = "1MN-n4-JIK"; */
+"1MN-n4-JIK.normalTitle" = "Mindre end flyttekasse";
+
+/* Class = "UILabel"; text = "Hvor skal vi hen?"; ObjectID = "1mH-JD-2q3"; */
+"1mH-JD-2q3.text" = "Hvor skal vi hen?";
+
+/* Class = "UILabel"; text = "$15.00"; ObjectID = "2Cw-ph-uRC"; */
+"2Cw-ph-uRC.text" = "$15.00";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "2hA-K5-wbb"; */
+"2hA-K5-wbb.text" = "$";
+
+/* Class = "UITextField"; placeholder = "Efternavn"; ObjectID = "2tj-0C-Iq8"; */
+"2tj-0C-Iq8.placeholder" = "Efternavn";
+
+/* Class = "UITextField"; placeholder = "name@example.com"; ObjectID = "2ww-W0-3Un"; */
+"2ww-W0-3Un.placeholder" = "name@example.com";
+
+/* Class = "UITextField"; placeholder = "Skriv dine kommentarer"; ObjectID = "3Bn-8e-YvW"; */
+"3Bn-8e-YvW.placeholder" = "Skriv dine kommentarer";
+
+/* Class = "UIButton"; normalTitle = "TILFØJ KUPON"; ObjectID = "3Rb-0T-eBF"; */
+"3Rb-0T-eBF.normalTitle" = "TILFØJ KUPON";
+
+/* Class = "UILabel"; text = "Capacity"; ObjectID = "4Zy-qi-9eC"; */
+"4Zy-qi-9eC.text" = "Capacity";
+
+/* Class = "UILabel"; text = "BetalingsmÂder"; ObjectID = "4ej-RV-JhJ"; */
+"4ej-RV-JhJ.text" = "BetalingsmÂder";
+
+/* Class = "UILabel"; text = "Betaling"; ObjectID = "529-33-GCJ"; */
+"529-33-GCJ.text" = "Betaling";
+
+/* Class = "UIButton"; normalTitle = "GEM"; ObjectID = "5u5-i4-bO9"; */
+"5u5-i4-bO9.normalTitle" = "GEM";
+
+/* Class = "UIButton"; normalTitle = "TILFØJ PENGER TIL WALLET"; ObjectID = "6MC-Vg-IYw"; */
+"6MC-Vg-IYw.normalTitle" = "TILFØJ PENGER TIL WALLET";
+
+/* Class = "UIButton"; normalTitle = "BESTIL TRANSPORT"; ObjectID = "6S3-xG-RMX"; */
+"6S3-xG-RMX.normalTitle" = "BESTIL TRANSPORT";
+
+/* Class = "UILabel"; text = "KVITTERING"; ObjectID = "6vz-lB-t03"; */
+"6vz-lB-t03.text" = "KVITTERING";
+
+/* Class = "UILabel"; text = "17"; ObjectID = "7UR-on-SRI"; */
+"7UR-on-SRI.text" = "17";
+
+/* Class = "UILabel"; text = "Venter på betaling"; ObjectID = "7iJ-Dn-nS0"; */
+"7iJ-Dn-nS0.text" = "Venter på betaling";
+
+/* Class = "UILabel"; text = "Dato"; ObjectID = "7wL-eo-cf0"; */
+"7wL-eo-cf0.text" = "Dato";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "8b5-Xc-wLi"; */
+"8b5-Xc-wLi.normalTitle" = "DONE";
+
+/* Class = "UIButton"; normalTitle = "CALL"; ObjectID = "9UU-Xa-pDl"; */
+"9UU-Xa-pDl.normalTitle" = "CALL";
+
+/* Class = "UILabel"; text = "Velkommen tilbage, log pÂ for at fortsÊtte"; ObjectID = "9bx-7K-8iI"; */
+"9bx-7K-8iI.text" = "Velkommen tilbage, log pÂ for at fortsÊtte";
+
+/* Class = "UILabel"; text = "Choose an account"; ObjectID = "BPC-py-hCA"; */
+"BPC-py-hCA.text" = "Choose an account";
+
+/* Class = "UIButton"; normalTitle = "BETALING MODTAGET"; ObjectID = "BXo-Cl-Jvm"; */
+"BXo-Cl-Jvm.normalTitle" = "BETALING MODTAGET";
+
+/* Class = "UIButton"; normalTitle = "FORTRYD"; ObjectID = "CBq-ym-RQx"; */
+"CBq-ym-RQx.normalTitle" = "FORTRYD";
+
+/* Class = "UITextField"; placeholder = "skriv dit kodeord"; ObjectID = "Cfp-lR-gGO"; */
+"Cfp-lR-gGO.placeholder" = "skriv dit kodeord";
+
+/* Class = "UILabel"; text = "Pris"; ObjectID = "Dge-nb-yBD"; */
+"Dge-nb-yBD.text" = "Pris";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "E3d-nG-DwS"; */
+"E3d-nG-DwS.text" = "Facebook";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "EYK-gF-8GM"; */
+"EYK-gF-8GM.text" = "Total";
+
+/* Class = "UITextField"; placeholder = "   Hvorfra?"; ObjectID = "Evg-tN-Pz8"; */
+"Evg-tN-Pz8.placeholder" = "   Hvorfra?";
+
+/* Class = "UILabel"; text = "Seden"; ObjectID = "FUq-eJ-wCQ"; */
+"FUq-eJ-wCQ.text" = "Seden";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "FV1-g0-6M1"; */
+"FV1-g0-6M1.text" = "E-mail";
+
+/* Class = "UILabel"; text = "BetalingsmÂder"; ObjectID = "G4Y-pf-qZJ"; */
+"G4Y-pf-qZJ.text" = "BetalingsmÂder";
+
+/* Class = "UILabel"; text = "Jeg vil oprette en konto"; ObjectID = "GQk-I6-GwX"; */
+"GQk-I6-GwX.text" = "Jeg vil oprette en konto";
+
+/* Class = "UITextField"; placeholder = "Fornavn"; ObjectID = "GfC-Wo-XFd"; */
+"GfC-Wo-XFd.placeholder" = "Fornavn";
+
+/* Class = "UIButton"; normalTitle = "SKIFT"; ObjectID = "HCp-lc-DAp"; */
+"HCp-lc-DAp.normalTitle" = "SKIFT";
+
+/* Class = "UILabel"; text = "Fornavn"; ObjectID = "HKd-H6-2vA"; */
+"HKd-H6-2vA.text" = "Fornavn";
+
+/* Class = "UILabel"; text = "Moms"; ObjectID = "Hin-zw-ruB"; */
+"Hin-zw-ruB.text" = "Moms";
+
+/* Class = "UILabel"; text = "Din konto-balance er"; ObjectID = "ISo-3m-pe2"; */
+"ISo-3m-pe2.text" = "Din konto-balance er";
+
+/* Class = "UILabel"; text = "Kilde"; ObjectID = "Jah-p5-p7q"; */
+"Jah-p5-p7q.text" = "Kilde";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "KGH-cg-do1"; */
+"KGH-cg-do1.text" = "Name";
+
+/* Class = "UILabel"; text = "4 People"; ObjectID = "KML-5A-BHf"; */
+"KML-5A-BHf.text" = "4 People";
+
+/* Class = "UIButton"; normalTitle = "Færdig"; ObjectID = "L5E-JW-cwU"; */
+"L5E-JW-cwU.normalTitle" = "Færdig";
+
+/* Class = "UIButton"; normalTitle = "Annuller tur"; ObjectID = "PkX-zq-wdJ"; */
+"PkX-zq-wdJ.normalTitle" = "Annuller tur";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "QQR-gW-q5V"; */
+"QQR-gW-q5V.text" = "E-mail";
+
+/* Class = "UILabel"; text = "Telefonnummer"; ObjectID = "QVF-qU-gIB"; */
+"QVF-qU-gIB.text" = "Telefonnummer";
+
+/* Class = "UILabel"; text = "Skriv nyt kodeord"; ObjectID = "Qcd-3j-4gM"; */
+"Qcd-3j-4gM.text" = "Skriv nyt kodeord";
+
+/* Class = "UITextField"; placeholder = "0987654321"; ObjectID = "SiL-yA-Wjq"; */
+"SiL-yA-Wjq.placeholder" = "0987654321";
+
+/* Class = "UILabel"; text = "Rediger Profil"; ObjectID = "SnK-a9-seb"; */
+"SnK-a9-seb.text" = "Rediger Profil";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "SyC-Cx-BYQ"; */
+"SyC-Cx-BYQ.text" = "1";
+
+/* Class = "UILabel"; text = "Bestemmelsessted"; ObjectID = "Tu8-z6-TZM"; */
+"Tu8-z6-TZM.text" = "Bestemmelsessted";
+
+/* Class = "UILabel"; text = "Tilføj kredit-eller betalingskort"; ObjectID = "Uej-bc-VuI"; */
+"Uej-bc-VuI.text" = "Tilføj kredit-eller betalingskort";
+
+/* Class = "UILabel"; text = "Eller log pÂ med Sociale Medier"; ObjectID = "Utr-TC-yba"; */
+"Utr-TC-yba.text" = "Eller log pÂ med Sociale Medier";
+
+/* Class = "UIButton"; normalTitle = "ADD BELØB"; ObjectID = "UuE-wh-PiD"; */
+"UuE-wh-PiD.normalTitle" = "ADD BELØB";
+
+/* Class = "UILabel"; text = "Google"; ObjectID = "VW1-As-qab"; */
+"VW1-As-qab.text" = "Google";
+
+/* Class = "UIButton"; normalTitle = "Vil du Êndre kodeord?"; ObjectID = "W86-vP-cr5"; */
+"W86-vP-cr5.normalTitle" = "Vil du Êndre kodeord?";
+
+/* Class = "UIButton"; normalTitle = "BESTIL TRANSPORT"; ObjectID = "Wc2-GD-DvA"; */
+"Wc2-GD-DvA.normalTitle" = "BESTIL TRANSPORT";
+
+/* Class = "UILabel"; text = "Kommentarer"; ObjectID = "XAF-Uf-vjO"; */
+"XAF-Uf-vjO.text" = "Kommentarer";
+
+/* Class = "UILabel"; text = "Indtast adgangskoden"; ObjectID = "XAw-an-E05"; */
+"XAw-an-E05.text" = "Indtast adgangskoden";
+
+/* Class = "UIButton"; normalTitle = "Lave om"; ObjectID = "Xcw-Im-lFd"; */
+"Xcw-Im-lFd.normalTitle" = "Lave om";
+
+/* Class = "UIButton"; normalTitle = "Skift kodeord"; ObjectID = "Xs6-pn-kJh"; */
+"Xs6-pn-kJh.normalTitle" = "Skift kodeord";
+
+/* Class = "UILabel"; text = "Ankomst"; ObjectID = "Xug-6h-uHq"; */
+"Xug-6h-uHq.text" = "Ankomst";
+
+/* Class = "UILabel"; text = "kampagner"; ObjectID = "Y9d-Fc-vvQ"; */
+"Y9d-Fc-vvQ.text" = "kampagner";
+
+/* Class = "UIButton"; normalTitle = "RING"; ObjectID = "YS9-pf-M0t"; */
+"YS9-pf-M0t.normalTitle" = "RING";
+
+/* Class = "UILabel"; text = "Efternavn"; ObjectID = "Z9H-zw-VlX"; */
+"Z9H-zw-VlX.text" = "Efternavn";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "ZAC-Vz-iPF"; */
+"ZAC-Vz-iPF.placeholder" = "CVV";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zgn-qU-VNc"; */
+"Zgn-qU-VNc.text" = "Label";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Zjq-E2-HSv"; */
+"Zjq-E2-HSv.text" = "Email";
+
+/* Class = "UILabel"; text = "BekrÊft venligst kodeord"; ObjectID = "agK-9E-IcL"; */
+"agK-9E-IcL.text" = "BekrÊft venligst kodeord";
+
+/* Class = "UILabel"; text = "Rate your trip"; ObjectID = "c6o-y1-qyz"; */
+"c6o-y1-qyz.text" = "Rate your trip";
+
+/* Class = "UIButton"; normalTitle = "Skift kodeord"; ObjectID = "cCV-YS-IdB"; */
+"cCV-YS-IdB.normalTitle" = "Skift kodeord";
+
+/* Class = "UILabel"; text = "per Km"; ObjectID = "cKZ-ey-KTh"; */
+"cKZ-ey-KTh.text" = "per Km";
+
+/* Class = "UITextField"; placeholder = "*************"; ObjectID = "cQq-T6-wZ2"; */
+"cQq-T6-wZ2.placeholder" = "*************";
+
+/* Class = "UILabel"; text = "Tid"; ObjectID = "dAt-gK-rZG"; */
+"dAt-gK-rZG.text" = "Tid";
+
+/* Class = "UILabel"; text = "$10.00"; ObjectID = "dz1-K8-UiV"; */
+"dz1-K8-UiV.text" = "$10.00";
+
+/* Class = "UILabel"; text = "BMW"; ObjectID = "eG4-6v-l9T"; */
+"eG4-6v-l9T.text" = "BMW";
+
+/* Class = "UIButton"; normalTitle = "SKIFT"; ObjectID = "ekh-hR-TBV"; */
+"ekh-hR-TBV.normalTitle" = "SKIFT";
+
+/* Class = "UILabel"; text = "Indtast beløbet"; ObjectID = "f9g-3C-iI2"; */
+"f9g-3C-iI2.text" = "Indtast beløbet";
+
+/* Class = "UILabel"; text = "Leder efter transport"; ObjectID = "fvJ-M8-kid"; */
+"fvJ-M8-kid.text" = "Leder efter transport";
+
+/* Class = "UILabel"; text = "Indtast detaljerne for at registrere"; ObjectID = "g73-1W-62B"; */
+"g73-1W-62B.text" = "Indtast detaljerne for at registrere";
+
+/* Class = "UITextField"; placeholder = "MM/YY"; ObjectID = "gEU-qP-EDQ"; */
+"gEU-qP-EDQ.placeholder" = "MM/YY";
+
+/* Class = "UIButton"; normalTitle = "Kommende"; ObjectID = "gbi-by-Co1"; */
+"gbi-by-Co1.normalTitle" = "Kommende";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "gi9-cV-Ewh"; */
+"gi9-cV-Ewh.text" = "Historik";
+
+/* Class = "UILabel"; text = "Kodeord"; ObjectID = "gzo-FP-PRx"; */
+"gzo-FP-PRx.text" = "Kodeord";
+
+/* Class = "UILabel"; text = "Telefonnummer"; ObjectID = "h6q-s7-NOC"; */
+"h6q-s7-NOC.text" = "Telefonnummer";
+
+/* Class = "UILabel"; text = "Kredit/Debit kort Nummer"; ObjectID = "hgn-e8-tIs"; */
+"hgn-e8-tIs.text" = "Kredit/Debit kort Nummer";
+
+/* Class = "UILabel"; text = "Skriv nyt kodeord"; ObjectID = "ieh-if-akn"; */
+"ieh-if-akn.text" = "Skriv nyt kodeord";
+
+/* Class = "UILabel"; text = "WALLET"; ObjectID = "in0-y7-oCc"; */
+"in0-y7-oCc.text" = "WALLET";
+
+/* Class = "UILabel"; text = "Navn"; ObjectID = "izt-C1-u57"; */
+"izt-C1-u57.text" = "Navn";
+
+/* Class = "UITextField"; placeholder = "0987654321"; ObjectID = "jAg-Sk-Shf"; */
+"jAg-Sk-Shf.placeholder" = "0987654321";
+
+/* Class = "UILabel"; text = "Get moving with Tranxit"; ObjectID = "kbu-jH-Npq"; */
+"kbu-jH-Npq.text" = "Get moving with Tranxit";
+
+/* Class = "UILabel"; text = "Base Fare"; ObjectID = "kco-vY-uXy"; */
+"kco-vY-uXy.text" = "Base Fare";
+
+/* Class = "UIButton"; normalTitle = "Lave om"; ObjectID = "lw6-QC-XHv"; */
+"lw6-QC-XHv.normalTitle" = "Lave om";
+
+/* Class = "UILabel"; text = "per Km"; ObjectID = "mpK-aS-ATg"; */
+"mpK-aS-ATg.text" = "per Km";
+
+/* Class = "UILabel"; text = "Dine ture"; ObjectID = "mvI-kf-ahb"; */
+"mvI-kf-ahb.text" = "Dine ture";
+
+/* Class = "UIButton"; normalTitle = "Tilføje"; ObjectID = "ndO-wV-ZfW"; */
+"ndO-wV-ZfW.normalTitle" = "Tilføje";
+
+/* Class = "UITextField"; placeholder = "name@example.com"; ObjectID = "o4X-gf-NL1"; */
+"o4X-gf-NL1.placeholder" = "name@example.com";
+
+/* Class = "UILabel"; text = "Indtast adgangskoden"; ObjectID = "o4a-pe-mTc"; */
+"o4a-pe-mTc.text" = "Indtast adgangskoden";
+
+/* Class = "UILabel"; text = "Estimeret pris"; ObjectID = "oJ6-IH-OtU"; */
+"oJ6-IH-OtU.text" = "Estimeret pris";
+
+/* Class = "UILabel"; text = "Skriv nuvÊrende kodeord"; ObjectID = "oMz-7I-TLa"; */
+"oMz-7I-TLa.text" = "Skriv nuvÊrende kodeord";
+
+/* Class = "UILabel"; text = "BekrÊft venligst kodeord"; ObjectID = "oWi-3j-gkr"; */
+"oWi-3j-gkr.text" = "BekrÊft venligst kodeord";
+
+/* Class = "UILabel"; text = "$ 100"; ObjectID = "pxi-1m-Ecc"; */
+"pxi-1m-Ecc.text" = "$ 100";
+
+/* Class = "UILabel"; text = "Glemt kodeord"; ObjectID = "qkV-nU-m1v"; */
+"qkV-nU-m1v.text" = "Glemt kodeord";
+
+/* Class = "UIButton"; normalTitle = "INDSEND"; ObjectID = "rAF-br-0DB"; */
+"rAF-br-0DB.normalTitle" = "INDSEND";
+
+/* Class = "UILabel"; text = "No trips found"; ObjectID = "sk8-Sc-QRn"; */
+"sk8-Sc-QRn.text" = "No trips found";
+
+/* Class = "UIButton"; normalTitle = "Større end flyttekasse"; ObjectID = "tlA-OM-H7G"; */
+"tlA-OM-H7G.normalTitle" = "Større end flyttekasse";
+
+/* Class = "UITextField"; placeholder = "   Hvor skal vi hen?"; ObjectID = "ulE-j3-JiN"; */
+"ulE-j3-JiN.placeholder" = "   Hvor skal vi hen?";
+
+/* Class = "UIButton"; normalTitle = "Tidligere"; ObjectID = "uoa-MH-agw"; */
+"uoa-MH-agw.normalTitle" = "Tidligere";
+
+/* Class = "UITextField"; placeholder = "Skriv Promokoden"; ObjectID = "ynL-TW-WWh"; */
+"ynL-TW-WWh.placeholder" = "Skriv Promokoden";
+
+/* Class = "UIButton"; normalTitle = "AFLYS TRANSPORT"; ObjectID = "ynh-5Y-FN3"; */
+"ynh-5Y-FN3.normalTitle" = "AFLYS TRANSPORT";
+
+/* Class = "UILabel"; text = "Pickup & drop"; ObjectID = "z7F-Y9-NxC"; */
+"z7F-Y9-NxC.text" = "Pickup & drop";
+
+/* Class = "UILabel"; text = "Skriv din e-mail adresse"; ObjectID = "zT0-Zg-zrD"; */
+"zT0-Zg-zrD.text" = "Skriv din e-mail adresse";

@@ -1,0 +1,77 @@
+/*
+ Localizable.strings
+ User
+ 
+ Created by veena on 1/30/17.
+ Copyright © 2017 iCOMPUTERS. All rights reserved.
+ */
+
+
+
+
+"APP_NAME"="TRANXIT";
+
+"CHKNET" ="Please check internet connection";
+"ALERT" = "Alert!";
+"VALIDATE"="Please fill all the fields";
+"ERRORMSG"="Please try again later";
+"LOGIN_ERROR"="Authentication failed";
+"AMOUNT_SYMBOL"="$";
+"WAIT_PAY_MENT"="Waiting for payment";
+
+//ViewController
+"TITLE_LBL"="Get Moving With Tranxit";
+"MAIL_BUTTON"="Enter your mail ID";
+"SOCIAL_BUTTON"="or connect with social";
+
+//Register Page
+"TITLE_REG"="Enter the details to register";
+"EMAIL"="Email";
+"EMAIL_EG"="name@example.com";
+"FIRST_NAME"="First name";
+"LAST_NAME"="Last name";
+"PHN_NO"="Phone Number";
+"PWD"="Password";
+
+//Password Page
+"TITLE_PWD"="Welcome back, sign in to continue";
+"PWD_PLACEHOLDER"="Enter your password";
+"FORGOT_BTN"="I forgot my password";
+"REGISTER_BTN"="I need to create an account";
+
+//Change Password screen
+
+"OLD_PWD"="Old password is required";
+"NEW_PWD"="New password is required";
+"CON_PWD"="Confirm password is required";
+"MATCH_PWD"="New password and confirm password must be same";
+"PWD_CHD"="Password changed successfully";
+
+//RATING_VIEW
+"RATING_VIEW"="Rate your trip with";
+
+//AddCard
+"CARD"="unable to procced";
+
+"CARD_DETAILS"="Please enter the card details";
+
+"AMOUNT_WALLET"="Enter the amount to be added to your wallet";
+
+"PWD_REQ"="Password is required";
+
+"PROMO_CODE"="Enter the promotional code";
+
+"EMAIL_REQ"="Email address is required";
+
+"EMAIL_INVALID"="Email address is invalid";
+
+"ADD_CARD"="Please add a card to proceed";
+
+//Logout
+"LOG_OUT"="Are you sure want to logout?";
+
+
+
+
+
+

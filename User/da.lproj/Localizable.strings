@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  User
+
+  Created by veena on 1/30/17.
+  Copyright © 2017 iCOMPUTERS. All rights reserved.
+*/
+
+
+
+
+"APP_NAME"="HABIL";
+
+"CHKNET" ="Hovsa, forbind til internettet";
+"ALERT" = "Alarm!";
+"VALIDATE"="Udfyld venligst alle felter";
+"ERRORMSG"="Prøv igen senere";
+"LOGIN_ERROR"="Godkendelse Fejl";
+"AMOUNT_SYMBOL"="$";
+"WAIT_PAY_MENT"="Afventer betaling";
+
+//ViewController
+"TITLE_LBL"="Brug habil til transport og fragt";
+"MAIL_BUTTON"="Hvad er din e-mail adresse?";
+"SOCIAL_BUTTON"="Eller log pÂ med Sociale Medier";
+
+//Register Page
+"TITLE_REG"="Indtast oplysninger for at registrere";
+"EMAIL"="E-mail";
+"EMAIL_EG"="navn@ejemplo.com";
+"FIRST_NAME"="Fornavn";
+"LAST_NAME"="Efternavn";
+"PHN_NO"="Telefonnummer";
+"PWD"="Kodeord";
+
+//Password Page
+"TITLE_PWD"="Velkommen, Log ind for at fortsætte";
+"PWD_PLACEHOLDER"="skriv dit kodeord";
+"FORGOT_BTN"="Glemt kodeord";
+"REGISTER_BTN"="Jeg vil oprette en konto";
+
+//Change Password screen
+
+"EMAIL_PWD"="Hvad er din e-mail adresse?";
+
+"OLD_PWD"="Skriv nuvÊrende kodeord.";
+"NEW_PWD"="Skriv nyt kodeord.";
+"CON_PWD"="BekrÊft venligst kodeord.";
+"MATCH_PWD"="Ny adgangskode og bekræftelse password skal være den samme";
+"PWD_CHD"="Password ændret med succes";
+
+//RATING_VIEW
+"RATING_VIEW"="Bedøm din rejse";
+
+//AddCard
+"CARD"="Ude af stand til at procced";
